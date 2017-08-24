@@ -18,3 +18,4 @@ class PostsController < ApplicationController
 
   end
 end
+git remote add origin git@github.com:username/hello-github.git
