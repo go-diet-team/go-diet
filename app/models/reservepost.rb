@@ -1,0 +1,2 @@
+class Reservepost < ApplicationRecord
+end

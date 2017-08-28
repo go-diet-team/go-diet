@@ -1,0 +1,2 @@
+class Modifi < ApplicationRecord
+end
